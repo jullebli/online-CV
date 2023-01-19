@@ -1,13 +1,18 @@
 # online-CV: Julia Bergman
 
-
-
-
 ## Education
 
-<p>8/2020-  University of Helsinki, Faculty of Science, Department of Computer Science: The Bachelor’s Programme in Computer Science<br>
-01/2014-5/2017 Metropolia University of Applied Sciences: Radiography and Radiotherapy, Bachelor's Degree<br>
-08/2006-05/2009 Ressu Upper Secondary School: Finnish Matriculation Examination</p>
+<p>The Bachelor’s Programme in Computer Science<br>
+University of Helsinki, Faculty of Science, Department of Computer Science<br>
+8/2020- <br>
+
+Radiography and Radiotherapy, Bachelor's Degree<br>
+Metropolia University of Applied Sciences<br>
+01/2014-5/2017<br>
+
+Finnish Matriculation Examination<br>
+Ressu Upper Secondary School<br>
+08/2006-05/2009</p>
 
 ## Language Skills
 
